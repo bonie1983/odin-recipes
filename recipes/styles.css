@@ -1,0 +1,12 @@
+* {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.full-card {
+    width: 245px;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+      margin: 10px 5px;
+      padding: 4px;
+      background: linear-gradient(35deg,#a1a1d4,#fff1cc);
+}
